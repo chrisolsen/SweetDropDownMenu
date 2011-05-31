@@ -1,5 +1,5 @@
 /**
- * TruncateIt
+ * SweetDropDownMenu
  * Copyright (c) 2011 Chris Olsen [olsen.chris@gmail.com]
  * 
  * Licensed under the MIT license.
